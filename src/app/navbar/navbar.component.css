@@ -1,0 +1,30 @@
+.navbar{
+    background-color: #2C3E50;
+    font-weight: 700;
+    padding-block: 20px;
+    position:fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+}
+
+a{
+    color: #fff;
+}
+
+.navbar-brand{
+    font-size: 32px;
+
+}
+
+.nav-link{
+    padding: 20px;
+}
+
+a:hover{
+    color: #fff;
+}
+
+.active{
+    background-color:  #1abc9c;
+}
